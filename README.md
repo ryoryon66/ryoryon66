@@ -1,7 +1,12 @@
 ### Hi there 👋
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=taxi1729)](https://github.com/KATO-Hiro/AtCoderTrophies)
+
 ## link
+linkedin : https://www.linkedin.com/in/ryoma-nakai-a397602a5/
+
 AtCoder : https://atcoder.jp/users/taxi1729
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=taxi1729)](https://github.com/KATO-Hiro/AtCoderTrophies)
+
+## 発表歴など
 
 <!--
 **ryoryon66/ryoryon66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
