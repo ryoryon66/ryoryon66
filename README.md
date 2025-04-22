@@ -1,6 +1,17 @@
 # ryoryon66のTOP 🍍
 
+主にML系のことに興味があります．
+経歴等はlinkedinを参照してください [link](https://www.linkedin.com/in/ryoma-nakai-a397602a5/)
 
+## 作ったものの例
+- 自作言語の（導出木可視化機能を備えた）インタプリタと自作CPUへのコンパイラ
+[IMP_Operational_semantics](https://github.com/ryoryon66/IMP_Operational_semantics)
+- Reactの練習で作ったSegment Treeの動作の可視化デモサイト（稼働中)
+[react_segtree](https://github.com/ryoryon66/react_segtree)
+- ラズパイ目覚まし時計と連動して睡眠習慣を記録するWebアプリ(無料版herokuの消失から動かしていない)
+WIP
+- C++で作成したBrzozowski微分に基づく正規表現の受理判定器の実装と受理過程の可視化プログラム
+[CppRegexBzD](https://github.com/ryoryon66/CppRegexBzD)
 
 ## 受賞歴
 - 2022年8月　セキュリティキャンプ2022全国大会 Dクラス AI Attack&Defenseコンテスト 1位
@@ -8,17 +19,13 @@
 - 2025年3月	(大学卒業時に) 優秀学生賞
 
 ## 資格等
-
 - 2022年12月 応用情報技術者　合格
 - 2023年4月  データベーススペシャリスト　合格
 - 2023年2月  TOEIC L&R 950
 
 ## 発表歴など
-
 - Arisaka, R., Nakai, R., Kawamoto, Y. and Ito, T., 2022. Theme aspect argumentation model for handling fallacies. arXiv preprint arXiv:2205.15141.
-
 - 中井 諒馬, 石川 琉聖, 橋本 俊甫, 井上 博之, 外部知識なし/モデル内部秘匿/低温度固定状況でのデータ拡張を用いたサンプリングによる日本語LLMの幻覚検知, 人工知能学会全国大会論文集, 2024, JSAI2024 巻, 第38回 (2024)
-
 - SecHack365でのポスター発表(研究駆動コース　20R) [リンク](https://sechack365.nict.go.jp/achievement/2023/)
 
 ## external links
