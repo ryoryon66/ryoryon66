@@ -1,6 +1,6 @@
 # ryoryon66のTOP 🍍
 
-主にML系のことに興味があります．
+主にML系のことに興味があり機械学習エンジニアやデータアナリストとしてアルバイトやインターンをしています．
 経歴等はlinkedinを参照してください [link](https://www.linkedin.com/in/ryoma-nakai-a397602a5/)
 
 ## 作ったものの例
