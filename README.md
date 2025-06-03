@@ -4,6 +4,9 @@
 
 経歴等はlinkedinを参照してください [link](https://www.linkedin.com/in/ryoma-nakai-a397602a5/)
 
+最近の興味
+- ML, MLops, データ基盤
+
 ## 作ったものの例
 - 自作言語の（導出木可視化機能を備えた）インタプリタと自作CPUへのコンパイラ
 [IMP_Operational_semantics](https://github.com/ryoryon66/IMP_Operational_semantics)
