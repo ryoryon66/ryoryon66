@@ -1,11 +1,8 @@
 # ryoryon66のTOP 🍍
 
-主にML系のことに興味があり機械学習エンジニアやデータアナリストとしてアルバイトやインターンをしています．
+機械学習専門が専門です．
 
 経歴等はlinkedinを参照してください [link](https://www.linkedin.com/in/ryoma-nakai-a397602a5/)
-
-最近の興味
-- ML, MLops, データ基盤
 
 ## 作ったものの例
 - 自作言語の（導出木可視化機能を備えた）インタプリタと自作CPUへのコンパイラ
@@ -36,6 +33,8 @@ WIP
 
 ## external links
 linkedin : https://www.linkedin.com/in/ryoma-nakai-a397602a5/
+
+zenn : https://zenn.dev/ryoryon66
 
 AtCoder : https://atcoder.jp/users/taxi1729
 
